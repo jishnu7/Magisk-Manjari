@@ -1,0 +1,7 @@
+id=magisk-manjari
+name=Manjari
+version=v1
+versionCode=1
+author=jishnu7
+description=Use Manjari as default font for Malayalam
+minMagisk=17000
